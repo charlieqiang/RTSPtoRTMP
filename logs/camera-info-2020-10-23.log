@@ -1,0 +1,14 @@
+2020-10-23 08:57:21.205 [main] INFO  com.junction.CameraServerApplication - Starting CameraServerApplication on DESKTOP-76FRO4B with PID 2676 (D:\2020-workspace-clq\RTSPtoRTMP\target\classes started by Charlie in D:\2020-workspace-clq\RTSPtoRTMP)
+2020-10-23 08:57:21.210 [main] INFO  com.junction.CameraServerApplication - No active profile set, falling back to default profiles: default
+2020-10-23 08:57:22.453 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2020-10-23 08:57:22.461 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2020-10-23 08:57:22.461 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-23 08:57:22.462 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-10-23 08:57:22.534 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/camera] - Initializing Spring embedded WebApplicationContext
+2020-10-23 08:57:22.534 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1178 ms
+2020-10-23 08:57:22.675 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-23 08:57:22.809 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2020-10-23 08:57:22.826 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/camera'
+2020-10-23 08:57:22.829 [main] INFO  com.junction.CameraServerApplication - Started CameraServerApplication in 2.591 seconds (JVM running for 4.276)
+2020-10-23 08:57:22.832 [timeTimer] INFO  com.junction.util.TimerUtil - ******   执行定时任务       BEGIN   ******
+2020-10-23 08:57:22.832 [timeTimer] INFO  com.junction.util.TimerUtil - ******   执行定时任务       END     ******

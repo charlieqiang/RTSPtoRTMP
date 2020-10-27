@@ -1,0 +1,8 @@
+2020-10-24 09:39:37.227 [main] INFO  com.junction.CameraServerApplicationTests - Starting CameraServerApplicationTests on DESKTOP-76FRO4B with PID 27740 (started by Charlie in D:\2020-workspace-clq\RTSPtoRTMP)
+2020-10-24 09:39:37.229 [main] INFO  com.junction.CameraServerApplicationTests - No active profile set, falling back to default profiles: default
+2020-10-24 09:39:38.951 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-24 09:39:39.372 [main] INFO  com.junction.CameraServerApplicationTests - Started CameraServerApplicationTests in 2.979 seconds (JVM running for 4.554)
+2020-10-24 09:39:39.378 [timeTimer] INFO  com.junction.util.TimerUtil - ******   执行定时任务       BEGIN   ******
+2020-10-24 09:39:39.379 [timeTimer] INFO  com.junction.util.TimerUtil - ******   执行定时任务       END     ******
+2020-10-24 09:39:39.874 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-24 09:39:39.875 [SpringContextShutdownHook] INFO  com.junction.CameraServerApplication - 服务结束，开始释放空间...
